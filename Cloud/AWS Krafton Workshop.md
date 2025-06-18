@@ -62,4 +62,5 @@
 - 예측 가능함: 디스크 탐색 시간이 안 든다.
 ![[Screenshot 2025-06-18 at 2.55.18 PM.png]]
 
-
+## Q Developter
+###
