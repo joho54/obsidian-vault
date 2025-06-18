@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ca5428460fa5ca07",
+        "id": "e1abd2cdf9aedd62",
         "type": "tabs",
         "children": [
           {
-            "id": "193049b6a27592e3",
+            "id": "7c66bdf7b737011a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,12 +179,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "193049b6a27592e3",
+  "active": "2b4f2e80ea61cd4a",
   "lastOpenFiles": [
+    "attachments/Screenshot 2025-06-18 at 2.55.18 PM.png",
+    "attachments",
     "resources/Screenshot 2025-06-18 at 2.53.52 PM.png",
-    "resources",
-    "Screenshot 2025-06-18 at 2.52.14 PM.png",
     "Cloud/AWS Krafton Workshop.md",
+    "Screenshot 2025-06-18 at 2.52.14 PM.png",
+    "resources",
     "Untitled.canvas",
     "Initial Commit.md",
     "Cloud",
