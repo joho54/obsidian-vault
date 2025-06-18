@@ -28,5 +28,38 @@
 - Amazon S3
 
 ## Database in AWS
-### Storage
+목차
+- RDS
+- Aurora
+- DynamoDB
+- ElastiCache
+### 완전 관리형 데이터베이스 서비스
+- 자체 관리형: 아래 스텝 외에는 AWS가 자동 관리
+- 스키마 설계
+- 쿼리 생성
+- 쿼리 최적화
+### 목적에 맞는 데이터베이스 사용
+- Relational: RDB. Aurora, RDS
+- Key-value: json. DynamoDB
+- Document: DocumentDB
+## RDS
+### 다양한 AWS 관리 서비스와 통합
+### 성능 개선 도우미
+## Aurora
+### Aurora: 클라우드용으로 구축된 MySQl 및 PostgreSQL 호환 연계형 DB
+- 완전 관리형
+- 성능 & 확장성
+- 가용성  & 내구성
+### 오로라 아키텍처
+- Shared Storage Volume: 데이터베이스를 분산 처리, 성능을 올려줌.
+- 로그 기반 분산형 스토리지
+## DyanmoDB
+- No SQL로 해보고 싶으면 이거 해보세요
+
+## ElastiCaching
+### 캐싱이 필요한 이유
+- 빠름: 메모리는 빠르다.
+- 예측 가능함: 디스크 탐색 시간이 안 든다.
+
+![[Screenshot 2025-06-18 at 2.53.52 PM.png]]
 

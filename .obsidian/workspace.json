@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Initial Commit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Initial Commit"
-            }
-          },
-          {
-            "id": "e3b029dcd3b346c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Cloud/AWS Krafton Workshop.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "AWS Krafton Workshop"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -194,12 +179,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8258227a3dc932ba",
+  "active": "193049b6a27592e3",
   "lastOpenFiles": [
-    "Cloud",
-    "Initial Commit.md",
+    "resources/Screenshot 2025-06-18 at 2.53.52 PM.png",
+    "resources",
+    "Screenshot 2025-06-18 at 2.52.14 PM.png",
     "Cloud/AWS Krafton Workshop.md",
     "Untitled.canvas",
+    "Initial Commit.md",
+    "Cloud",
     "Untitled 5.canvas",
     "Untitled 6.canvas",
     "Untitled 4.canvas",
